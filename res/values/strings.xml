@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IsMyGBlur</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="range">Radius of range (1 &#8211; 25)</string>
+
+</resources>
