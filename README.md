@@ -12,7 +12,7 @@ Info
 4. Download the support library and source, use `Android SDK Manager` download Android SDK Build-tools `18.1.0`.
 5. Do `Gaussian Blur`, can use [ScriptIntrinsicBlur][4], and you also want to learn this [page][5].
 6. If you look `RenderScript` source, some advanced below.
-> [GCC and Clang Vector Extensions][6]
+  * [GCC and Clang Vector Extensions][6]
 
 
 [1]: https://play.google.com/store/apps/details?id=com.nexdev.blurone&hl=zh-CN
